@@ -22,3 +22,10 @@
 .container a {
   text-decoration: none;
 }
+.modal-wrapper {
+  border-radius: 20;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+
+  --background: transparent !important;
+}

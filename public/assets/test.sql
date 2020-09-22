@@ -1,0 +1,2 @@
+
+CREATE TABLE IF NOT EXISTS new_employees(id INTEGER PRIMARY KEY,name TEXT, curr_designation_id INTEGER, start_date TEXT, prev_designation_id INTEGER, end_date TEXT, roles TEXT,staff_status TEXT,time_spent TEXT);

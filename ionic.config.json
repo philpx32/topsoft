@@ -1,5 +1,7 @@
 {
   "name": "Topsoft",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
